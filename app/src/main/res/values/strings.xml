@@ -4,7 +4,7 @@
     <string name="favorites">Favorites</string>
     <string name="bedroom">Bedroom</string>
     <string name="lights">Lights</string>
-    <string name="turn_on">Turn on</string>
-    <string name="turn_off">Turn off</string>
+    <string name="turn_on">On</string>
+    <string name="turn_off">Off</string>
     <string name="sub_heading">Automate everything</string>
 </resources>
